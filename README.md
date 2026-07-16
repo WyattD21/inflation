@@ -1,5 +1,5 @@
-# Inflation Lens
+# Inflation Rate Calculator
 
-Compare an item's price across three years. The upgraded interface visualizes the price trend and calculates both year-over-year inflation rates with clear increase/decrease styling.
+This program compares the price of an item over three years and calculates the percentage change for each one-year period.
 
-Open `index.html` for the analyzer. The original C++ console program remains available through the included CMake build.
+The C++ version reads prices from the terminal. `index.html` provides editable price fields, a bar chart, and both annual inflation rates.
